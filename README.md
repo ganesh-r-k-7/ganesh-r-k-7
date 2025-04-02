@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hey there!
 
-<!--
-**ganesh-r-k-7/ganesh-r-k-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science Student at Krea University
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ganesh-r-k-7&theme=midnight-purple&card_width=500&show_icons=true&bg_color=00000000&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh-r-k-7&layout=donut&langs_count=4&theme=midnight-purple&bg_color=00000000" />
+  </a>
+</div>
