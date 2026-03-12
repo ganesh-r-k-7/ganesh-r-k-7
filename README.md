@@ -1,6 +1,11 @@
-### Hey there!
+### Hey there! 👋
 
-I am a Data Science Student at Krea University
+I am a Data Science Student at Krea University 🎓
+
+- 🔭 Currently exploring **Machine Learning** and **Data Science**
+- 🌱 Learning and building projects with **Python**, **SQL**, and **statistics**
+- 💬 Ask me about data analysis, ML models, or anything data-related
+- 🤖 Using **Claude** (Anthropic) and other AI tools to supercharge my workflow
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
